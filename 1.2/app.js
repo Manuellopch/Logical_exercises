@@ -1,0 +1,11 @@
+console.log(2+2);
+console.log('hola mundo');
+console.log(true);
+console.log('ID ' + 20);
+console.log([1,2,3]);
+console.table([1,2,3]);
+console.time('Hola');
+console.warn('Hubo un Error');
+console.warn('Hubo un Error');
+console.warn('Hubo un Error');
+console.timeEnd('Hola');
